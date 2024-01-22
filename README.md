@@ -17,5 +17,5 @@
 pip install -r requirements.txt
 ```
 
-follow this instruction on whisperX 
+follow the instruction on whisperX 
 https://github.com/m-bain/whisperX/tree/main
