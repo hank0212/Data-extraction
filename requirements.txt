@@ -1,0 +1,13 @@
+whisper==1.1.10
+clip
+torch
+whisperx
+whisper
+Pillow==10.2.0
+numpy==1.26.3
+ffmpeg==1.4
+natsort==8.4.0
+face_recognition==1.3.0
+opencv-python-headless
+matplotlib
+pandas==2.1.4
