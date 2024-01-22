@@ -16,3 +16,6 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+follow this instruction on whisperX 
+https://github.com/m-bain/whisperX/tree/main
